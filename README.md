@@ -22,7 +22,7 @@
    <!-- Ganti Audio di sini --><audio id="linkmp3">https://raw.githubusercontent.com/agustinus12345/test/main/y2mate.com%20-%203%20New%20Day%20Official.mp3</audio>
    
    <div id="bodyblur" onClick="mulaikonten()">
-     <!-- Wallpaper --><img src="https://i.postimg.cc/5t5kcWKz/wp2560255.jpg" id="wallpaper"/>
+     <!-- Wallpaper --><img src="https://i.postimg.cc/SNDShH5w/wp2560255v2.jpg" id="wallpaper"/>
      <p id="ket">Hai Cantik! Klik sembarang tempat ya...</p>
    </div>
    
